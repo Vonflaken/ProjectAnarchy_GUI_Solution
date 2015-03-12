@@ -38,3 +38,6 @@ It loads UI textures from TexturePacker output and make it usable (from now I wi
 ## Thanks 
 * EnjoyStick Studios. My team suffered the development of this project ;).
 * UIToolkit (https://github.com/oddgames/UIToolkit). I based the easing transition and positioning code of GUI elements in that library.
+
+## Contact
+Feel free to message me about issues, improvements or whatever in **vonflaken@gmail.com**
