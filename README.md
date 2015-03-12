@@ -17,7 +17,8 @@ Prepare TexturePacker project settings (download from https://www.codeandweb.com
 * Data format -> JSON (Array).
 * Data file and Texture file named the same way.
 * Frames of a same element must be named with '_#' sufix from 0. Example: gui_element**_0**.png, gui_element**_1**.png, etc.
-* Packing with rotated elements is not supported.  
+* Packing with rotated elements is not supported. 
+
 In source code, first of all:  
 ```
 #include "GUIAnimationManager.h"
@@ -31,9 +32,9 @@ It loads UI textures from TexturePacker output and make it usable (from now I wi
 4.   Use GUIAnimation API however you want.
 5.   In order to free memory and resources call ```GUIAnimationManager::Instance().DeInit()```. Normally when the app closes.
 
-# Used in
+## Used in
 * Cut-shumoto (http://enjoystickstudios.com/). Mobile game.
 
-# Thanks 
+## Thanks 
 * EnjoyStick Studios. My team suffered the development of this project ;).
 * UIToolkit (https://github.com/oddgames/UIToolkit). I based the easing transition and positioning code of GUI elements in that library.
