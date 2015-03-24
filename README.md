@@ -32,7 +32,7 @@ It loads UI textures from TexturePacker output and make it usable (from now I wi
 4.   Use GUIAnimation API however you want.
 5.   In order to free memory and resources call ```GUIAnimationManager::Instance().DeInit()```. Normally when the app closes.
 
-## Discussion thread in Project Anarcy forum
+## Discussion thread in Project Anarchy forum
 http://forum.projectanarchy.com/showthread.php?1931-New-GUI-Solution-for-Project-Anarchy
 
 ## Used in
