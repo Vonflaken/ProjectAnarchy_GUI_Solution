@@ -33,7 +33,7 @@ It loads UI textures from TexturePacker output and make it usable (from now I wi
 5.   In order to free memory and resources call ```GUIAnimationManager::Instance().DeInit()```. Normally when the app closes.
 
 ## Used in
-* Cut-shumoto [APK](https://www.dropbox.com/s/i7717q45sp62mxv/CutshumotoApplication.apk?dl=0). Mobile game. **Only works in Android versions prior to 5.0** due to discontinued support of the engine.
+* **Cut-shumoto.** Mobile video game. [Download APK](https://www.dropbox.com/s/i7717q45sp62mxv/CutshumotoApplication.apk?dl=0). **Only works in Android versions prior to 5.0** due to discontinued support of the engine.
 
 ## Thanks 
 * EnjoyStick Studios. My team suffered the development of this project ;).
