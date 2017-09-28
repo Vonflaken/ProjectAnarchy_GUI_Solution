@@ -1,5 +1,5 @@
 # ProjectAnarchy_GUI_Solution
-It´s a GUI solution for Project Anarchy engine. It wraps VisScreenMask_cl with useful functions for get an awesome UI control.
+It's a GUI solution for Project Anarchy engine. It wraps VisScreenMask_cl with useful functions for getting beautiful UI animations.
 
 ## Features
 * Handles OnClickUp/OnClickDown input.
@@ -32,15 +32,12 @@ It loads UI textures from TexturePacker output and make it usable (from now I wi
 4.   Use GUIAnimation API however you want.
 5.   In order to free memory and resources call ```GUIAnimationManager::Instance().DeInit()```. Normally when the app closes.
 
-## Discussion thread in Project Anarchy forum
-http://forum.projectanarchy.com/showthread.php?1931-New-GUI-Solution-for-Project-Anarchy
-
 ## Used in
-* Cut-shumoto (http://enjoystickstudios.com/). Mobile game.
+* Cut-shumoto [APK](https://www.dropbox.com/s/i7717q45sp62mxv/CutshumotoApplication.apk?dl=0). Mobile game. **Only works in Android versions prior to 5.0** due to discontinued support of the engine.
 
 ## Thanks 
 * EnjoyStick Studios. My team suffered the development of this project ;).
-* UIToolkit (https://github.com/oddgames/UIToolkit). I based the easing transition and positioning code of GUI elements in that library.
+* UIToolkit (https://github.com/oddgames/UIToolkit). The easing transition and positioning code of GUI elements is based on that library.
 
 ## Contact
 Feel free to message me about issues, improvements or whatever in **vonflaken@gmail.com**
