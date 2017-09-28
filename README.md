@@ -40,4 +40,4 @@ It loads UI textures from TexturePacker output and make it usable (from now I wi
 * UIToolkit (https://github.com/oddgames/UIToolkit). The easing transition and positioning code of GUI elements is based on that library.
 
 ## Contact
-Feel free to message me about issues, improvements or whatever in **vonflaken@gmail.com**
+Feel free to message me about issues, improvements or whatever in **vonflaken@gmail.com.**
